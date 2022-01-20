@@ -1,0 +1,19 @@
+﻿  GridVisual.cpp
+  visualize_rrt.cpp
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(24,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(24,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(31,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(31,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(87,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(87,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(109,23): warning C4018: '<': signed/unsigned mismatch
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(133,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(133,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(141,23): warning C4018: '<': signed/unsigned mismatch
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(166,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(166,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\rrtmain\visualize_rrt.cpp(244,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  rrtmain.vcxproj -> D:\academics\Vishnu\Masters\Sem 1\24780\Grp project\rrtmain\Debug\rrtmain.exe
