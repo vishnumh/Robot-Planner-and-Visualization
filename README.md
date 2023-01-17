@@ -1,4 +1,4 @@
-# openGL 2-D Path Planning Visualizations
+# OpenGL 2-D Path Planning Visualizations
 ## GRID BASED PLANNERS
 #### Djikstra
 
@@ -41,6 +41,3 @@
 
 <img src="https://github.com/vishnumh/Robot-Planner-and-Visualization/blob/main/gifs/rrt_star.gif" width="500">
 
-
-<!-- ![Farmers Market Finder - Animated gif demo](demo/demo.gif)
-https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/test.gif -->
